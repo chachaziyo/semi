@@ -9,6 +9,7 @@ public class Main {
 		String test = "유병승";
 		System.out.println(a+test);//commit해야만 저장된다!->gift Staging!에서 commit하기!
 		
+		System.out.println("안녕하세요~ 오늘 git입니다.");
 	}
 
 }
