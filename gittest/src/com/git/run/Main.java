@@ -6,8 +6,8 @@ public class Main {
 		System.out.println("Hello Git!!!");
 		
 		int a=10;
-		int b=20;
-		System.out.println(a+b);//commit해야만 저장된다!->gift Staging!에서 commit하기!
+		String test = "유병승";
+		System.out.println(a+test);//commit해야만 저장된다!->gift Staging!에서 commit하기!
 		
 	}
 
